@@ -15,9 +15,13 @@
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
     "rollup-plugin-terser": "^7.0.0",
-    "svelte": "^3.0.0"
+    "svelte": "^3.36.0"
   },
   "dependencies": {
+    "chart.js": "^3.0.2",
+    "fraction.js": "^4.0.13",
+    "fractional": "^1.0.0",
+    "fractionalize": "^1.0.3",
     "sirv-cli": "^1.0.0"
   }
 }
